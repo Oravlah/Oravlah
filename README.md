@@ -14,9 +14,10 @@
 <h3 align="center">Contactame:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/lauro_brant-1/](https://www.linkedin.com/in/innonautas/))
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([mailto:produtor.brantlauro@gmail.com](https://mail.google.com/mail/u/1/?pli=1#inbox))
-  
+[![image](https://skillicons.dev/icons?i=instagram)]((https://www.instagram.com/orav1a/))
+[![image](https://skillicons.dev/icons?i=gmail)]((https://mail.google.com/mail/u/1/?pli=1#inbox))
+[![image](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/innonautas/)
+
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
