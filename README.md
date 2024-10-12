@@ -1,23 +1,21 @@
 <h1 align="center">Hola 👋, Soy Álvaro <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">un apasionado por el desarrollo Movíl y Web.</h3>
 
-- 🔭 I’m currently working on my **Python Course**
+- 🔭 Usualmente trabajo en **Angular**
 
-- 🌱 I’m currently learning **Python, HTML5 and CSS3**
+- 🌱 Usualmente estudio **TS, HTML, CSS y Python**
 
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
+- 👯 Eh colaborado en proyectos como **Front-end y Back-end**
 
-- 📫 How to reach me: **brantlauro@gmail.com**
+- 📫 Email: **oravla.hhh@gmail.com**
 
-- ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
+- ⚡ Hobbies: **Me gusta mucho jugar baloncesto, Caminar, jugar videojuegos ...y programar, claro.**
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Contactame:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauro_brant-1/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brantlauro/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brantlauro)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.brantlauro@gmail.com)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/lauro_brant-1/](https://www.linkedin.com/in/innonautas/))
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([mailto:produtor.brantlauro@gmail.com](https://mail.google.com/mail/u/1/?pli=1#inbox))
   
 </div>
 
