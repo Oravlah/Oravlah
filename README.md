@@ -1,11 +1,13 @@
 <h1 align="center">Hola 👋, Soy Álvaro <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">un apasionado por el desarrollo Movíl y Web.</h3>
 
-- 🔭 Usualmente trabajo en **Angular**
+- 🔭 Actualmente me encuentro desarrollando en **Angular**
 
-- 🌱 Usualmente estudio **TS, HTML, CSS y Python**
+- 🌱 En mis tiempos de estudio practico **TS, HTML, CSS y Python**
 
-- 👯 Eh colaborado en proyectos de **Front-end y Back-end**
+- 👯 Me encuentro colaborando de manera activa en proyectos donde mi
+     responsabilidad es el desarrollo  del Front-End, dentro de este
+     ocupo franeworks como Angular e Ionic. **Front-end y Back-end**
 
 - 📫 Email: **oravla.hhh@gmail.com**
 
@@ -24,7 +26,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,bootstrap,html,css,github,git,gitlab,windows,django&perline=5" />
+    <img src="https://skillicons.dev/icons?i=typescript,bootstrap,html,css,github,git,gitlab,windows,ionic,django&perline=5" />
   </a>
 </p>
 
