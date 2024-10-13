@@ -5,10 +5,6 @@
 
 - 🌱 En mis tiempos de estudio practico **TS, HTML, CSS y Python**
 
-- 👯 Me encuentro colaborando de manera activa en proyectos donde mi
-     responsabilidad es el desarrollo  del Front-End, dentro de este
-     ocupo franeworks como Angular e Ionic. **Front-end y Back-end**
-
 - 📫 Email: **oravla.hhh@gmail.com**
 
 - ⚡ Hobbies: **Me gusta mucho jugar baloncesto, Caminar, jugar videojuegos ...y programar, claro.**
@@ -26,7 +22,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,bootstrap,html,css,github,git,gitlab,windows,Ionic,django&perline=5" />
+    <img src="https://skillicons.dev/icons?i=typescript,bootstrap,html,css,github,git,gitlab,windows,django&perline=5" />
   </a>
 </p>
 
