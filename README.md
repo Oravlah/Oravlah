@@ -5,7 +5,7 @@
 
 - 🌱 Usualmente estudio **TS, HTML, CSS y Python**
 
-- 👯 Eh colaborado en proyectos como **Front-end y Back-end**
+- 👯 Eh colaborado en proyectos de **Front-end y Back-end**
 
 - 📫 Email: **oravla.hhh@gmail.com**
 
