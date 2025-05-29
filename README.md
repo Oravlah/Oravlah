@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Soy Álvaro <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">un apasionado por el desarrollo Movíl y Web.</h3>
+<h1 align="center">Hola 👋, Mi nombre es Álvaro Hernández <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h3 align="center">Un apasionado por el desarrollo desarrollo tecnologico</h3>
 
 - 🔭 Actualmente me encuentro desarrollando con el stack de **DjangoRF, Angular e Ionic**
 
@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,angular,bootstrap,html,css,github,git,gitlab,windows,django&perline=5" />
+    <img src="https://skillicons.dev/icons?i=typescript,angular,bootstrap,html,css,github,git,gitlab,linux,debian,cloudfare,firebase,ionic,windows,django&perline=5" />
   </a>
 </p>
 
