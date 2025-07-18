@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Mi nombre es Álvaro Hernández <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">Un apasionado por el desarrollo tecnologico de soluciones reales y escalables 🚀</h3>
+<h3 align="center">🚀 Un apasionado por el desarrollo tecnologico de soluciones reales y escalables 🚀</h3>
 
-- 🔭 Actualmente me encuentro desarrollando con el stack de **DjangoRF, Angular e Ionic**
+- 🔭 Actualmente me encuentro desarrollando con el stack tecnologico de **Django RF, Angular e Ionic**
 
-- 🌱 En mis tiempos de estudio practico **TS, HTML, CSS y Python**
+- 🌱 En mis tiempos de estudio me gusta profundizar en herramientas o tecnologias nuevas
 
 - 📫 Email: **oravla.hhh@gmail.com**
 
