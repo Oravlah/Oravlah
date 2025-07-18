@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Mi nombre es Álvaro Hernández <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">Titulado en Ing.Informatica, con experiencia en desarrollo Full Stack</h3>
+<h3 align="center">Un apasionado por el desarrollo tecnologico de soluciones reales y escalables.</h3>
 
 - 🔭 Actualmente me encuentro desarrollando con el stack de **DjangoRF, Angular e Ionic**
 
